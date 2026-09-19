@@ -1,0 +1,24 @@
+{
+  "Inputs" : {
+    "points" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "labels" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "Outputs" : {
+    "sparse_embeddings" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "dense_embeddings" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "TrainingInputs" : {
+
+  },
+  "States" : {
+
+  }
+}
